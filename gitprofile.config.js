@@ -35,6 +35,7 @@ const config = {
     'Python',
     'MySQL',
     'Java',
+    'R',
     'Matlab',
     'Pytorch',
     'Tensorflow',
@@ -129,6 +130,7 @@ const config = {
     // Available themes. To remove any theme, exclude from here.
     themes: [
       'black',
+      'Light',
     ],
 
     // Custom theme
