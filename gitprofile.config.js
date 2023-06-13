@@ -144,5 +144,5 @@ const config = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-
+};
 export default config;
